@@ -8,7 +8,7 @@ I wanted to use the Reaper toolhead on my Switchwire conversion, so I designed t
 
 ## Overview
 
-This carriage is currently **only compatible with the Klicky Probe**:
+This carriage is currently **only compatible with the Klicky Probe and sensorless homming**:
 
 - [Klicky Probe (Switchwire version)](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/Switchwire)
 
@@ -19,7 +19,7 @@ More probing solutions may be added in the future based on community feedback.
 ## Features
 
 - Detachable belt clips for easier belt installation and maintenance  
-- Integrated Klicky Probe mount  
+- Integrated Klicky Probe mount 
 - Support-free main parts (belt clips require supports)
 
 ---
@@ -116,7 +116,6 @@ These settings follow the **Voron Design guidelines** for functional mechanical 
 - tighten the three screws
 
 <img src="images/step3.4.jpg" height="300">
-
 
 <u>4. follow the [Installation Manual](https://github.com/APDMachine/Reaper/blob/main/Manual/Manual.pdf) to finish the toolhead assembly</u>
 
