@@ -115,6 +115,7 @@ These settings follow the **Voron Design guidelines** for functional mechanical 
 
 - tighten the three screws
 
+<img src="images/step3.4.jpg" height="300">
 
 <u>4. follow the [Installation Manual](https://github.com/APDMachine/Reaper/blob/main/Manual/Manual.pdf) to finish the toolhead assembly</u>
 
